@@ -100,7 +100,8 @@ body {
     color: #d70000;
     font-weight: normal; }
   .main > p a {
-    color: #7d7d7d; }
+    color: #7d7d7d;
+    text-decoration: underline; }
   .main > p small {
     display: inline-block;
     transform: scale(0.8) translateY(-3px); }
